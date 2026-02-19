@@ -16,5 +16,8 @@ Vehicle age is the biggest negative impactor on vehicle price with each addition
 ### Conclusion, Recommendation
 The dealership should focus on selling luxury cars and offroad diesel trucks with larger engines.  They should avoid high mileage, older vehicles with smaller engines from budget or discontinued manufacturers.  Electric vehicles should also be avoided.
 
+### Further Research
+A focused investigation on specific luxury and offroad truck models that yield the highest sales prices could be performed by ensuring the model data is well-formatted and focusing the modeling to only those manufacturers and vehicle types.
+
 ### Reference
 [Jupyter Notebook](prompt_II.ipynb)
